@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages For Dev
-Merge to dev
+## Welcome to GitHub Pages
+
 ### Prevew URL: https://nhannv-dev.github.io/digital-clock/
 
 You can use the [editor on GitHub](https://github.com/nhannv-dev/digital-clock/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
