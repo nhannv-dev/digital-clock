@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages For Dev
+deploy
 
 ### Prevew URL: https://nhannv-dev.github.io/digital-clock/
 
