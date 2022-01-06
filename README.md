@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages For Staging
+## Welcome to GitHub Pages
 
 ### Prevew URL: https://nhannv-dev.github.io/digital-clock/
 
